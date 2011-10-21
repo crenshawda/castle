@@ -1,2 +1,0 @@
-(ns clojure_refactoring)
-
