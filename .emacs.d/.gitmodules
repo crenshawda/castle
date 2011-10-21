@@ -1,0 +1,21 @@
+[submodule "ext/durendal"]
+	path = ext/durendal
+	url = http://github.com/technomancy/durendal.git
+[submodule "ext/epresent"]
+	path = ext/epresent
+	url = http://github.com/technomancy/epresent.git
+[submodule "ext/org-mode"]
+	path = ext/org-mode
+	url = git://repo.or.cz/org-mode.git
+[submodule "ext/graphviz-dot-mode"]
+	path = ext/graphviz-dot-mode
+	url = git://github.com/emacsmirror/graphviz-dot-mode.git
+[submodule "ext/clojure-refactoring"]
+	path = ext/clojure-refactoring
+	url = https://github.com/tcrayford/clojure-refactoring.git
+[submodule "ext/auto-complete"]
+	path = ext/auto-complete
+	url = http://github.com/m2ym/auto-complete.git
+[submodule "ext/ac-slime"]
+	path = ext/ac-slime
+	url = git://github.com/purcell/ac-slime.git
